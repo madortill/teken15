@@ -105,6 +105,10 @@ html, body {
     padding-top: 1em;
 }
 
+.bold {
+    font-weight: 500;
+}
+
 /* חלק עליון */
 .topButton {
     width: 18vw;
@@ -307,8 +311,7 @@ html, body {
 }
 
 .pic {
-    /* width: 42vw; */
-    height: 23vh;
+    height: 21vh;
     position: absolute;
     left: 5vw;
 }
