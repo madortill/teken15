@@ -12,7 +12,7 @@ let objMedInfo = {
         commercialName : "Allergyx.<br>Aerius.",
         indication : "<ol class=list><li>נזלת אלרגית.</li><li>אורטיקריה (פריחה בצורת משטחים אדומים בולטים בצורות שונות, מלווה בגרד).</li></ol>",
         contraindication : "אלרגיה לתרופה.",
-        sideEffect : "ישנוניות במינונים גבוהים.",
+        sideEffect : "<ol class=list><li>ישנוניות במינונים גבוהים.</li><li>סחרחורת.</li>",
         patientGuidelines : "שימוש מעבר למינון המקובל עלול לגרום לישנוניות.",
     },
     "Azelastine": {
