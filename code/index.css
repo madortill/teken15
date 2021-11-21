@@ -39,11 +39,11 @@ html, body {
     left: 0;
     width: 100%;
     height: 100%;
-    background: black;
+    background-color: #f4f4f4;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #f4f4f45d;
+    color: #79BEE0;
     font-size: 2em;
     font-weight: 800;
 }
